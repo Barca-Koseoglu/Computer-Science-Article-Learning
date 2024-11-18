@@ -30,3 +30,10 @@ Manipulating arrays in specific and clever ways allows us to solve many problems
 
 ### Some problems utilizing arrays (linked to my solutions):
 
+[Find subarrays with equal sum](https://github.com/Barca-Koseoglu/My-Leetcode-Solutions/tree/main/2395-Find-Subarrays-With-Equal-Sum)
+
+[Jump game](https://github.com/Barca-Koseoglu/My-Leetcode-Solutions/tree/main/55-Jump-Game)
+
+Gas Stations
+
+Palindromes
