@@ -34,8 +34,12 @@ Manipulating arrays in specific and clever ways allows us to solve many problems
 
 [Jump game](https://github.com/Barca-Koseoglu/My-Leetcode-Solutions/tree/main/55-Jump-Game)
 
-Gas Stations -havent done it yet :(
+[Gas Stations](https://github.com/Barca-Koseoglu/My-Leetcode-Solutions/tree/main/134-Gas-Station)
 
 [2um](https://github.com/Barca-Koseoglu/My-Leetcode-Solutions/tree/main/1-Two-Sum) (Brute force solution would be better for this article but I used a dictionary for efficiency. It still utilizes access values with indices, though)
 
-to be continued
+search in rotated sorted array -not finished
+
+Merge two arrays - later
+
+tbc
