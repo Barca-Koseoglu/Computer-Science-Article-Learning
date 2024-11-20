@@ -38,7 +38,7 @@ Manipulating arrays in specific and clever ways allows us to solve many problems
 
 [2um](https://github.com/Barca-Koseoglu/My-Leetcode-Solutions/tree/main/1-Two-Sum) (Brute force solution would be better for this article but I used a dictionary for efficiency. It still utilizes access values with indices, though)
 
-search in rotated sorted array -not finished
+[Search in rotated sorted array](https://github.com/Barca-Koseoglu/My-Leetcode-Solutions/tree/main/33-Search-In-Rotated-Sorted-Array)
 
 Merge two arrays - later
 
