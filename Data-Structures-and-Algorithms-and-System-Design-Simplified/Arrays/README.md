@@ -36,10 +36,44 @@ Manipulating arrays in specific and clever ways allows us to solve many problems
 
 [Gas Stations](https://github.com/Barca-Koseoglu/My-Leetcode-Solutions/tree/main/134-Gas-Station)
 
-[2um](https://github.com/Barca-Koseoglu/My-Leetcode-Solutions/tree/main/1-Two-Sum) (Brute force solution would be better for this article but I used a dictionary for efficiency. It still utilizes access values with indices, though)
+[2sum](https://github.com/Barca-Koseoglu/My-Leetcode-Solutions/tree/main/1-Two-Sum) (Brute force solution would be better for this article but I used a dictionary for efficiency. It still utilizes access values with indices, though)
 
 [Search in rotated sorted array](https://github.com/Barca-Koseoglu/My-Leetcode-Solutions/tree/main/33-Search-In-Rotated-Sorted-Array)
 
-Merge two arrays - later
+[Merge two arrays](https://github.com/Barca-Koseoglu/My-Leetcode-Solutions/tree/main/merge-sorted-array)
 
-tbc
+## Complexity Analysis
+
+Read my article on [complexity analysis](https://github.com/Barca-Koseoglu/Computer-Science-Article-Learning/tree/main/Data-Structures-and-Algorithms-and-System-Design-Simplified/Complexity-Analysis) if you don't know what it is already.
+
+To create an array: Time O(1), Space O(n)
+
+Insertion and deletion at the beginning of the array (index 0): O(n) time if the array is not full
+
+Insertion and deletion at the end of the array (index -1): O(1)
+
+Insertion and deletion somewhere in the middle: O(n)
+
+Using the index to access something in the array: O(1)
+
+Searching for an item in the array: O(n)
+
+## Tips and techniques to solve array questions
+
+1. Before thinking about a solution, check to see if the array is sorted or not. If it is, the most optimal solution is most likely found using binary search
+2. Know and implement important list methods (you could always use google if you forget)
+3. Know how to implement recursion, although things could get tricky
+4. Know how to manipulate indexes and retrieve values
+5. Know how to reverse, sort, and slice (split up parts of) arrays
+
+# Credits
+
+Article I read: https://medium.com/coders-mojo/day-11-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-arrays-bf7045a3c98b
+
+Author: Naina Chaturvedi
+
+This article: Written by me, Barca Koseoglu
+
+Problem solutions: Made by me, in my [Leetcode solutions page](https://github.com/Barca-Koseoglu/My-Leetcode-Solutions)
+
+Images: Taken from the article I read
