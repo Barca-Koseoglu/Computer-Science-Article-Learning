@@ -72,5 +72,10 @@ This is my implementation of a simple hash set and hash map on Leetcode
 3. Accessing the index by keys
 4. Some binary tree questions
 
-## Some questions:
+## Some problems utilizing hashes:
 
+[Two Sum](https://github.com/Barca-Koseoglu/My-Leetcode-Solutions/tree/main/1-Two-Sum)
+
+[First unique character in a string](https://github.com/Barca-Koseoglu/My-Leetcode-Solutions/tree/main/387-First-Unique-Character-in-a-String)
+
+[Contains duplicate](https://github.com/Barca-Koseoglu/My-Leetcode-Solutions/tree/main/217-Contains-Duplicate)
